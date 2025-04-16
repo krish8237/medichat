@@ -1,0 +1,10 @@
+# Core dependencies
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+transformers
+datasets
+accelerate
+torch
+tqdm
